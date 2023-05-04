@@ -1,6 +1,6 @@
 # Rafale2 by Mihai BOSIICA
 
-## Etape 0 : Organisation du travai
+## Etape 0 : Organisation du travail
 
 // TODO
 
